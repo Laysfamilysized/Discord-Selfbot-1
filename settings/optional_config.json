@@ -8,7 +8,7 @@
     "ascii_font": "big",
     "quoteembed_color": "auto",
     "embed_color": "",
-    "timezone": "US/Pacific",
-    "24hours": "false",
+    "timezone": "Europe/Helsinki",
+    "24hours": "true",
 	"password": ""
 }
