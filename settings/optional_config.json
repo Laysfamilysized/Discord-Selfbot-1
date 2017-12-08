@@ -4,7 +4,7 @@
     "show_search_term": "True",
     "customcmd_color": "27007A",
     "rich_embed": "on",
-    "default_status": "dnd",
+    "default_status": "invis",
     "ascii_font": "big",
     "quoteembed_color": "auto",
     "embed_color": "",
